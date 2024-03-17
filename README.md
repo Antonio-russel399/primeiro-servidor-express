@@ -6,3 +6,6 @@ nessas aula aprendi os seguintes conceitos para começar esse servidor:
   
 No arquivo index.js foi feita a importação do express como biblioteca utilizando o método require (const express = require('express')) e criado uma rota utilizando o método get(app.get('/', (requisicao, resposta) => {
     resposta.send('ola... esse...');) e definimos uma porta em que o servidor irá escutar (app.listen(3000))
+
+
+![Captura de tela 2024-03-17 183148](https://github.com/Antonio-russel399/primeiro-servidor-express/assets/124944823/3078b36b-d494-47c3-83e9-cfdf6b201bf6)
